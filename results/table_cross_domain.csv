@@ -1,0 +1,5 @@
+Model,Overall mAP@50,Crime Scene,Smart Device,Domain Gap
+YOLOv8-m Base,0.957 +/- 0.006,0.957 +/- 0.006,nan +/- nan,nan
+YOLOv8-m Enh.,0.933 +/- 0.003,0.933 +/- 0.003,nan +/- nan,nan
+YOLO11-m Base,0.973 +/- 0.007,0.973 +/- 0.007,nan +/- nan,nan
+YOLO11-m Enh.,0.926 +/- 0.005,0.926 +/- 0.005,nan +/- nan,nan
